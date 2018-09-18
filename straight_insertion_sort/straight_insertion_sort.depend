@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1526627776 source:d:\datastructure\straight_insertion_sort\straight_insertion_sort.cpp
+	"straight_insertion_sort.h"
+
+1526627753 d:\datastructure\straight_insertion_sort\straight_insertion_sort.h
+	<stdio.h>
+
